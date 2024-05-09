@@ -1,6 +1,7 @@
-# [Pwa Studio Extensions](https://www.elightwalk.com/magento-pwa) By Elightwalk
-
 ![Logo](https://www.elightwalk.com/static/version1712319115/frontend/Elightwalk/store/en_US/images/logo.svg)
+
+
+# [Pwa Studio Extensions](https://www.elightwalk.com/magento-pwa) By Elightwalk
 
 
 - [PWA Social Login](https://www.elightwalk.com/pwa-social-login)
